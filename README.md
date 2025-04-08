@@ -78,19 +78,3 @@ The results of the model reveal:
 Improving these areas will lead to better performance and real-world usability of age and gender detection systems.
 
 ---
-
-## 📎 Repository Structure (Example)
-
-```bash
-.
-├── model_haar_age/
-│   └── haar_age_detection.py
-├── model_dlib_age_gender/
-│   └── dlib_age_gender.py
-├── pretrained_models/
-│   ├── age_net.caffemodel
-│   └── gender_net.caffemodel
-├── assets/
-│   └── sample_images/
-├── README.md
-└── requirements.txt
